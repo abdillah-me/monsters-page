@@ -1,8 +1,8 @@
 {
    "name": "ztm-react-basic",
    "version": "0.1.0",
+   "homepage": "https://abdillah-me.github.io/monsters-page",
    "private": true,
-   "homepage": "https://github.io/abdillah-me/monsters-page",
    "dependencies": {
       "@testing-library/jest-dom": "^5.14.1",
       "@testing-library/react": "^13.0.0",
@@ -18,7 +18,7 @@
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
-      "predeploy": "yarn build",
+      "predeploy": "npm run build",
       "deploy": "gh-pages -d build"
    },
    "eslintConfig": {
