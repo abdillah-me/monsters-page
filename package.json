@@ -2,7 +2,7 @@
    "name": "ztm-react-basic",
    "version": "0.1.0",
    "private": true,
-   "homepage": "https://github.io/abdillah-me/monsters-search",
+   "homepage": "https://github.io/abdillah-me/monsters-page",
    "dependencies": {
       "@testing-library/jest-dom": "^5.14.1",
       "@testing-library/react": "^13.0.0",
